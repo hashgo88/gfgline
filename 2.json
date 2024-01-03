@@ -4,10 +4,10 @@
   ],
   "android": {
     "version": "1.0.8",
-    "dlUrl": "https://bing.com"  
+    "downloadPage": "https://bing.com"  
   },
   "ios": {
     "version": "1.0.8",
-    "dlUrl": "https://bing.com"
+    "downloadPage": "https://bing.com"
   }
 }
