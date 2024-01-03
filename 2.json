@@ -2,6 +2,12 @@
   "urls": [
     "https://www.gfg997.com"
   ],
-  "version": "1.0.8",
-  "dlUrl": "https://bing.com"
+  "android": {
+    "version": "1.0.8",
+    "dlUrl": "https://bing.com"  
+  },
+  "ios": {
+    "version": "1.0.8",
+    "dlUrl": "https://bing.com"
+  }
 }
