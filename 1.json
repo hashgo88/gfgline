@@ -5,10 +5,10 @@
   ],
   "android": {
     "version": "1.0.8",
-    "downloadPage": "https://bing.com"  
+    "downloadLink": "https://bing.com"  
   },
   "ios": {
     "version": "1.0.8",
-    "downloadPage": "https://bing.com"
+    "downloadLink": "https://bing.com"
   }
 }

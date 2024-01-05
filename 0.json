@@ -2,6 +2,12 @@
   "urls": [
     "https://appapi.1vqkx.live"
   ],
-  "version": "1.0.6",
-  "dlUrl": "https://baidu.com"
+  "android": {
+    "version": "1.0.8",
+    "downloadLink": "https://bing.com"  
+  },
+  "ios": {
+    "version": "1.0.8",
+    "downloadLink": "https://bing.com"
+  }
 }
