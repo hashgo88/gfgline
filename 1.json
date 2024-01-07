@@ -5,11 +5,11 @@
   ],
   "enableCheckVersion": false,
   "android": {
-    "version": "1.0.8",
+    "version": "1.1.0",
     "downloadLink": "https://bing.com"  
   },
   "ios": {
-    "version": "1.0.8",
+    "version": "1.1.0",
     "downloadLink": "https://bing.com"
   }
 }
