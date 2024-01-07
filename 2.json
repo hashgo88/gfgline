@@ -2,6 +2,7 @@
   "urls": [
     "https://www.gfg997.com"
   ],
+  "enableCheckVersion": false,
   "android": {
     "version": "1.0.8",
     "downloadLink": "https://bing.com"  
