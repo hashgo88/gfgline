@@ -1,6 +1,6 @@
 {
   "urls": [],
-  "enableCheckVersion": false,
+  "enableCheckVersion": true,
   "android": {
     "version": "1.1.0",
     "downloadLink": "https://bing.com"  
